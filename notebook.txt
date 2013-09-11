@@ -1,0 +1,20 @@
+Date  Who       Start  Stop   Interruptions Question TimeOnTask    Comments
+09/08 XW        -      -       -             1         -            I prepared my laptop a few days ago and I forgot how much time I spent on this question.
+09/08 XW        10:10  11:06  10             2        44            Learned how to use Github.
+09/08 XW        11:10  11:15   -             3         5            Uploaded a picture to Piazza.
+09/08 XW        11:20  11:27   -             4         7            Took a picture of hand writting design recipe.
+09/08 XW        11:30  11:39   -             4         9            Introduced myself on Piazza and uploaded hand writting design recipe to Piazza.
+09/11 XW        15:00  16:37   -             5        97            Completed set00 question1 to question5.
+============committing to git: 9/11 16:40 ===================
+    
+Total Time On Task Q1 (minutes)                    0 
+Total Time On Task Q2 (minutes)                   44  
+Total Time On Task Q3 (minutes)                    5  
+Total Time On Task Q4 (minutes)                   16  
+Total Time On Task Q5 (minutes)                   97  
+TOTQ1 (hours and tenths)                           0
+TOTQ2 (hours and tenths)                         0.7
+TOTQ3 (hours and tenths)                         0.1
+TOTQ4 (hours and tenths)                         0.3 
+TOTQ5 (hours and tenths)                         1.6
+
